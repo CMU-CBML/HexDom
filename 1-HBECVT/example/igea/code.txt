@@ -1,0 +1,1 @@
+Segmentation.exe -i igea.k -o igea_patch_hexdom.k

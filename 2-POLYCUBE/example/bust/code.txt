@@ -1,0 +1,1 @@
+Polycube.exe -i bust_indexPatch_hexdom.k -o bust_initialpolycube.k

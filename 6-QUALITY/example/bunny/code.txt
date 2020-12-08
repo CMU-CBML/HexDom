@@ -1,0 +1,1 @@
+Quality.exe -I bunny_hex.vtk --method 2 --parameter 0.1 --number 201 --sharp 2

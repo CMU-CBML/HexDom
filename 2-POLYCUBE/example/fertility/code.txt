@@ -1,0 +1,1 @@
+Polycube.exe -i fertility_indexPatch_hexdom.k -o fertility_initialpolycube.k

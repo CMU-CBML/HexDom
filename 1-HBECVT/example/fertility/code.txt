@@ -1,0 +1,1 @@
+Segmentation.exe -i fertility.k -o fertility_indexPatch_hexdom.k

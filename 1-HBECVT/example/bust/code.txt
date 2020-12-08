@@ -1,0 +1,1 @@
+Segmentation.exe -i bust.k -o bust_indexPatch_hexdom.k

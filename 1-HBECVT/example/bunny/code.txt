@@ -1,0 +1,1 @@
+Segmentation.exe -i bunny.k -o bunny_Patch_hexdom.k

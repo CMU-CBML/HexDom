@@ -1,0 +1,5 @@
+Quality.exe -I rockerarm.vtk --method 0 --number 1 --sharp 2
+
+Quality.exe -I rockerarm_lap.vtk --method 2 --parameter 0.1 --number 150 --sharp 2
+
+Quality.exe -I rockerarm_lap_smooth.vtk --method 2 --parameter 0.1 --number 23 --sharp 2

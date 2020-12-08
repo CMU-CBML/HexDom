@@ -1,0 +1,13 @@
+Quality.exe -I bust_hex.vtk --method 0 --number 1 --sharp 2
+
+Quality.exe -I bust_hex_lap.vtk --method 1 --number 1 --sharp 2
+
+Quality.exe -I bust_hex_lap_pillow.vtk --method 2 --parameter 0.1 --number 100 --sharp 2
+
+Quality.exe -I bust_hex_lap_pillow_smooth.vtk --method 2 --parameter 0.1 --number 100 --sharp 2
+
+Quality.exe -I bust_hex_lap_pillow_smooth_smooth.vtk --method 3 --parameter 0.01 --number 100 --sharp 2
+
+Quality.exe -I bust_hex_lap_pillow_smooth_smooth_opt.vtk --method 2 --parameter 0.1 --number 100 --sharp 2
+
+Quality.exe -I bust_hex_lap_pillow_smooth_smooth_opt_smooth.vtk --method 3 --parameter 0.1 --number 100 --sharp 2
