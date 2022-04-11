@@ -4742,6 +4742,7 @@ bool PrismGenClass::InteriorMappingOnePatch(Polycube &currentPolycubePatch)
 	mW.setZero();
 	vB0.setZero();
 	vB1.setZero();
+	vBy.setZero();
 	x_solve0.setZero();
 	x_solve1.setZero();
 
